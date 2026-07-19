@@ -39,6 +39,17 @@ const plantilla = String.raw`<!DOCTYPE html>
 <meta name="theme-color" content="#16091f">
 <title>¡Feliz cumpleaños, Ángela! 🎂</title>
 <meta name="description" content="Una sorpresa para alguien muy especial.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://angelamontenegro.com/">
+<meta property="og:site_name" content="angelamontenegro.com">
+<meta property="og:locale" content="es_ES">
+<meta property="og:title" content="¡Feliz cumpleaños, Ángela! 🎂">
+<meta property="og:description" content="Una sorpresa te espera… ¿te atreves a entrar?">
+<meta property="og:image" content="https://angelamontenegro.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Marquesina luminosa: ¡Feliz cumple, Ángela! Una sorpresa te espera.">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎂</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
